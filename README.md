@@ -35,10 +35,3 @@ total: 1727.876 cm3
 1. Clone this repository
 2. Compile: `javac Driver.java CylinderPyramid.java`
 3. Run: `java Driver`
-
-## Why This Project? 🌟
-Created as a school project to demonstrate:
-- Java programming fundamentals
-- Object-oriented design
-- Mathematical calculations
-- Clean code practices
